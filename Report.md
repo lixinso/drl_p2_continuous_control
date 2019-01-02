@@ -46,22 +46,22 @@ Agent Parameters
 
 ## Result
 
->Episode 1	 Score: 0.00	Average Score: 0.000.00
->Episode 2	 Score: 0.00	Average Score: 0.000.00
->Episode 3	 Score: 0.03	Average Score: 0.010.03
->Episode 4	 Score: 0.00	Average Score: 0.010.00
->Episode 5	 Score: 0.14	Average Score: 0.030.14
->...
->Episode 997	 Score: 27.94	Average Score: 20.93.94
->Episode 1200	 Score: 31.56	Average Score: 25.5556
->Episode 1200	 Average Score: 25.55
->Episode 1201	 Score: 27.89	Average Score: 25.6089
->...
->Episode 1275	 Score: 33.28	Average Score: 29.8528
->Episode 1276	 Score: 35.48	Average Score: 29.8948
->Episode 1277	 Score: 34.48	Average Score: 29.9848
->Episode 1278	 Score: 30.41	Average Score: 30.0541
->Environment solved in 1178 episodes. 	 Average Score: 30.05
+>Episode 1	 Score: 0.00	Average Score: 0.000.00<br>
+>Episode 2	 Score: 0.00	Average Score: 0.000.00<br>
+>Episode 3	 Score: 0.03	Average Score: 0.010.03<br>
+>Episode 4	 Score: 0.00	Average Score: 0.010.00<br>
+>Episode 5	 Score: 0.14	Average Score: 0.030.14<br>
+>...<br>
+>Episode 997	 Score: 27.94	Average Score: 20.93.94<br>
+>Episode 1200	 Score: 31.56	Average Score: 25.5556<br>
+>Episode 1200	 Average Score: 25.55<br>
+>Episode 1201	 Score: 27.89	Average Score: 25.6089<br>
+>...<br>
+>Episode 1275	 Score: 33.28	Average Score: 29.8528<br>
+>Episode 1276	 Score: 35.48	Average Score: 29.8948<br>
+>Episode 1277	 Score: 34.48	Average Score: 29.9848<br>
+>Episode 1278	 Score: 30.41	Average Score: 30.0541<br>
+>Environment solved in 1178 episodes. 	 Average Score: 30.05<br>
 
 ![ResultPlot][image1]
 
