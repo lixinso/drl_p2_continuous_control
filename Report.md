@@ -1,4 +1,6 @@
 
+[image1]: ./result.png "ResultPlot"
+
 This project use DDPG (Deep Deterministic Policy Gradient) architecture.
 
 ## State and Action
@@ -43,7 +45,7 @@ Agent Parameters
 
 
 ## Result
-
+![ResultPlot][image1]
 
 ## Future Improvement
 
